@@ -38,7 +38,7 @@ nav > ul {
   background-color: #93a1a1;
 }
 
-div > .dfn {
+.wrapper > .dfn {
   background-color: #b58900;
 }
 
@@ -46,7 +46,7 @@ p + strong {
   color: #fff;
 }
 
-.a {
+a:not(.no-highlight) {
   background-color: #719e07;
 }
 
@@ -70,6 +70,6 @@ ol li:last-child {
   background-color: #586e75;
 }
 
-.types > li:nth-child(3) {
+.types > li:nth-child(3n) {
   background-color: #d04b16;
 }
