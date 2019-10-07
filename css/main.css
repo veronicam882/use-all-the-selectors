@@ -1,0 +1,51 @@
+body {
+  background-color: #fdf6e3;
+}
+
+header {
+  font-size: 1.5rem;
+}
+
+footer {
+  font-size: 1.5rem;
+}
+
+nav > ul {
+  font-family: sans-serif;
+}
+
+.logo {
+  text-transform: uppercase;
+}
+
+.wrapper {
+  background-color: #eee8d5;
+}
+
+#contents {
+  background-color: #93a1a1;
+}
+
+#favs {
+  background-color: #93a1a1;
+}
+
+#facts {
+  background-color: #93a1a1;
+}
+
+#types {
+  background-color: #93a1a1;
+}
+
+div > .dfn {
+  background-color: #b58900
+}
+
+ p + strong {
+   color: #fff
+}
+
+#html {
+  background-color: #791e07;
+}
